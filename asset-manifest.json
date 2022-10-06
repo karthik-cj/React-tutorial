@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/React-tutorial/static/css/main.f4e8814c.css",
+    "main.js": "/React-tutorial/static/js/main.586a8372.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/React-tutorial/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/profile.jpg": "/React-tutorial/static/media/profile.a81bb062e9d7c86488d0.jpg",
+    "static/media/fontawesome-webfont.eot": "/React-tutorial/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/React-tutorial/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/React-tutorial/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/React-tutorial/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/instagram.png": "/React-tutorial/static/media/instagram.e719d8b29f452a16302d.png",
+    "static/media/login.png": "/React-tutorial/static/media/login.a952913a7a42e036aa49.png",
+    "static/media/background.png": "/React-tutorial/static/media/background.f0727d4fcad66c17842f.png",
+    "static/media/twitter.png": "/React-tutorial/static/media/twitter.112d93100806a70e5d28.png",
+    "static/media/github.png": "/React-tutorial/static/media/github.05f6c17b8cd04c28456f.png",
+    "index.html": "/React-tutorial/index.html",
+    "main.f4e8814c.css.map": "/React-tutorial/static/css/main.f4e8814c.css.map",
+    "main.586a8372.js.map": "/React-tutorial/static/js/main.586a8372.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4e8814c.css",
+    "static/js/main.586a8372.js"
+  ]
+}
