@@ -1,0 +1,103 @@
+main {
+    margin-top: 50px;
+    height: 685px;
+    width: 100%;
+    background-image: url(./Images/background.png);
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-position-y: bottom;
+    background-size: 200px;
+}
+
+form {
+    padding: 55px;
+    width: 500px;
+    margin: auto;
+}
+
+.nav-items {
+    list-style: none;
+    display: flex;
+}
+
+.nav-items > li {
+    font-size: 20px;
+    font-style: italic;
+    font-family: monospace;
+    padding: 8px;
+    color: rgb(255, 255, 255);
+    margin-right: 50px;
+    margin-top: 12px;
+}
+
+.img {
+    margin-left: 20px;
+    width: 50px;
+}
+
+.nav {
+    font-family: monospace;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: rgb(97, 218, 251);
+}
+
+.header {
+    background-color: #21222a; 
+}
+
+body {
+    background-color: #282d35 !important;
+}
+
+.cardbody {
+    background-color: #21222a;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    width: 500px;
+    height: 1350px;
+    margin: auto;
+    margin-top: 110px;
+  }
+
+  .footerbody {
+    background-color: #14151a;
+    width: 500px;
+    margin: auto;
+    margin-bottom: 20px;
+    padding: 20px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+  }
+
+  h6 { 
+    font-style: italic; 
+    font-family: monospace;
+  }
+
+  h1 {
+    font-family: monospace;
+  }
+
+  h4 {
+    font-family: monospace;
+  }
+  
+  .button {
+    display: flex;
+    align-items: center;
+    margin-left: 110px;
+    margin-right: 110px;
+  }
+
+  .button > img {
+    margin-right: 30px;
+  }
+
+  .button > small {
+    font-size: 25px;
+    font-family: monospace;
+  }
